@@ -10,7 +10,7 @@
 		24FF08F72ACCDD86004B369A /* Main.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 24FF08F52ACCDD86004B369A /* Main.xcdatamodeld */; };
 		24FF08F92ACCDFBA004B369A /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FF08F82ACCDFBA004B369A /* CoreDataManager.swift */; };
 		24FF08FB2AD62CCF004B369A /* ScoresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FF08FA2AD62CCF004B369A /* ScoresViewController.swift */; };
-		24FF09002AD8A5B5004B369A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24FF08FF2AD8A5B5004B369A /* Main.storyboard */; };
+		24FF09022AD8AEE1004B369A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24FF09012AD8AEE1004B369A /* Main.storyboard */; };
 		6377940729A31E0900D08D42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6377940629A31E0900D08D42 /* AppDelegate.swift */; };
 		6377940929A31E0900D08D42 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6377940829A31E0900D08D42 /* SceneDelegate.swift */; };
 		6377940B29A31E0900D08D42 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6377940A29A31E0900D08D42 /* GameViewController.swift */; };
@@ -35,7 +35,7 @@
 		24FF08F62ACCDD86004B369A /* Scores.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Scores.xcdatamodel; sourceTree = "<group>"; };
 		24FF08F82ACCDFBA004B369A /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
 		24FF08FA2AD62CCF004B369A /* ScoresViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoresViewController.swift; sourceTree = "<group>"; };
-		24FF08FF2AD8A5B5004B369A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
+		24FF09012AD8AEE1004B369A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		6377940329A31E0900D08D42 /* DMFindingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DMFindingGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6377940629A31E0900D08D42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6377940829A31E0900D08D42 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -93,7 +93,7 @@
 				639FBDE729ED962E008CEF57 /* Support */,
 				6377941429A31E0A00D08D42 /* Info.plist */,
 				24FF08F52ACCDD86004B369A /* Main.xcdatamodeld */,
-				24FF08FF2AD8A5B5004B369A /* Main.storyboard */,
+				24FF09012AD8AEE1004B369A /* Main.storyboard */,
 				24FF08F82ACCDFBA004B369A /* CoreDataManager.swift */,
 			);
 			path = DMFindingGame;
@@ -217,7 +217,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				24FF09002AD8A5B5004B369A /* Main.storyboard in Resources */,
+				24FF09022AD8AEE1004B369A /* Main.storyboard in Resources */,
 				6377941329A31E0A00D08D42 /* LaunchScreen.storyboard in Resources */,
 				6377941029A31E0A00D08D42 /* Assets.xcassets in Resources */,
 			);
